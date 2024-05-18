@@ -17,9 +17,17 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+¡Hola a todos!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Mi nombre es Andrés Sánchez y estoy encantado de tener la oportunidad de presentarme ante ustedes. Actualmente, me encuentro cursando la carrera de Ingeniería en Sistemas, una disciplina que me apasiona profundamente.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Desde muy joven, he sentido una atracción irresistible por la tecnología y el mundo digital. La capacidad de crear soluciones innovadoras y enfrentar desafíos tecnológicos me motiva cada día a seguir aprendiendo y creciendo en este campo tan dinámico.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Durante mi trayectoria académica, he tenido la oportunidad de adquirir habilidades sólidas en áreas como la programación, el análisis de sistemas y la gestión de proyectos. Además, he participado en diversos proyectos tanto individuales como en equipo, lo que me ha permitido desarrollar mis capacidades de trabajo colaborativo y resolución de problemas.
+
+Estoy emocionado por la posibilidad de aplicar mis conocimientos y habilidades en el mundo laboral, contribuyendo de manera significativa a proyectos innovadores y al crecimiento de la industria tecnológica.
+
+¡Espero tener la oportunidad de conocernos más a fondo y de colaborar juntos en futuras oportunidades!
+
+¡Muchas gracias por su atención!
+
